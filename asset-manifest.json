@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.3d196763.css",
-    "main.js": "./static/js/main.1c507fd7.js",
+    "main.css": "./static/css/main.d079d645.css",
+    "main.js": "./static/js/main.feb3c3ec.js",
     "static/js/27.a2ef2fd5.chunk.js": "./static/js/27.a2ef2fd5.chunk.js",
     "static/media/targetsMural.mind": "./static/media/targetsMural.566409e3e61e32999470.mind",
     "static/media/imagen-fondo.png": "./static/media/imagen-fondo.fd2ae5386188093c3139.png",
@@ -9,7 +9,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.3d196763.css",
-    "static/js/main.1c507fd7.js"
+    "static/css/main.d079d645.css",
+    "static/js/main.feb3c3ec.js"
   ]
 }
